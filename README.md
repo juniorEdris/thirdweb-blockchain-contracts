@@ -1,47 +1,23 @@
-## Getting Started
+## Solidity Application for Web3-thirdweb-blockchain-network
 
-Create a project using this example:
+This repository contains Solidity codes for connecting to the blockchain, pairing with MetaMask, interacting with smart contracts, sending Ethereum through the blockchain network, writing Solidity code, and, most importantly, the ability to create, view, and donate to crowdfunding campaigns directly through the blockchain.
 
-```bash
-npx thirdweb create --contract --template hardhat-javascript-starter
-```
+Client Repository: [click-here](https://github.com/juniorEdris/React.Web3-Blockchain-Crowdfunding)
 
-You can start editing the page by modifying `contracts/Contract.sol`.
-
-To add functionality to your contracts, you can use the `@thirdweb-dev/contracts` package which provides base contracts and extensions to inherit. The package is already installed with this project. Head to our [Contracts Extensions Docs](https://portal.thirdweb.com/contractkit) to learn more.
-
-## Building the project
-
-After any changes to the contract, run:
+or
 
 ```bash
-npm run build
-# or
-yarn build
+    https://github.com/juniorEdris/React.Web3-Blockchain-Crowdfunding
 ```
 
-to compile your contracts. This will also detect the [Contracts Extensions Docs](https://portal.thirdweb.com/contractkit) detected on your contract.
+## Deployed Version
 
-## Deploying Contracts
+[deployed version](https://react-web3-blockchain-crowdfunding.vercel.app/)
 
-When you're ready to deploy your contracts, just run one of the following command to deploy you're contracts:
+## Developer Info
 
-```bash
-npm run deploy
-# or
-yarn deploy
-```
+**name: Md Imthiaz Chy Ragib**
 
-## Releasing Contracts
+**email: mohammedimthiaz17@gmail.com**
 
-If you want to release a version of your contracts publicly, you can use one of the followings command:
-
-```bash
-npm run release
-# or
-yarn release
-```
-
-## Join our Discord!
-
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+**linkedin: [linkedin.eftekar-raghib/](https://www.linkedin.com/in/eftekar-raghib/)**
